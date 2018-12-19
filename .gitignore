@@ -4,3 +4,5 @@
 /neuroConstruct/PN1LS_allORNs_Rinput/simulations
 /neuroConstruct/PN1LS_allORNs_Rinput/generatedNeuroML2/LEMS_PN1LS_allORNs_Rinput.xml
 /neuroConstruct/PN1LS_allORNs_Rinput/generatedNeuroML2/runsim.sh
+/neuroConstruct/PN1LS_allORNs_Rinput/generatedNeuroML2/*.png
+/neuroConstruct/PN1LS_allORNs_Rinput/generatedNeuroML2/*.svg
