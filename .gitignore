@@ -10,3 +10,6 @@
 /nC_projects_lite/PN1LS_allORNs/generatedNEURON
 /nC_projects_lite/*/simulations
 /nC_projects_lite/*/generatedNeuroML2/runsim.sh
+/nC_projects_lite/*/generatedNeuroML2/*.mod
+x86_64
+/nC_projects_lite/*/generatedNEURON
