@@ -15,109 +15,109 @@ Cell Group: neuron_PN1_LS_sk_419138 contains 1 cells
     <include href="DoubExpSynA.synapse.nml"/>
     <include href="LeakConductance.channel.nml"/>
     <include href="neuron_PN1_LS_sk_419138.cell.nml"/>
-    <poissonFiringSynapse id="syn398576" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_398576" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn395984" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_395984" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn321092" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_321092" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn403794" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_403794" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn333916" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_333916" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn339573" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_339573" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn225960" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_225960" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn319492" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_319492" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn153798" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_153798" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn360361" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_360361" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn320688" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_320688" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn402811" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_402811" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn360235" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_360235" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn362999" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_362999" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn309595" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_309595" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn331430" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_331430" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn329095" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_329095" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn343030" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_343030" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn220151" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_220151" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn392106" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_392106" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn332797" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_332797" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn596799" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_596799" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn396156" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_396156" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn401986" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_401986" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn401378" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_401378" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn426230" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_426230" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn333138" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_333138" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn337765" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_337765" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn373935" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_373935" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn379686" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_379686" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn379044" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_379044" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn404952" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_404952" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn362954" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_362954" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn373736" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_373736" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn328875" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_328875" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn362982" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_362982" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn366040" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_366040" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn420141" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_420141" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn327347" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_327347" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn492811" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_492811" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn362882" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_362882" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn331514" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_331514" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn392665" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_392665" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn415503" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_415503" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn373569" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_373569" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn332879" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_332879" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn337396" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_337396" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn317572" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_317572" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn699676" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_699676" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn331413" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_331413" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn591293" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_591293" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
-    <poissonFiringSynapse id="syn401197" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
+    <poissonFiringSynapse id="syn_401197" averageRate="20.0 per_s" synapse="DoubExpSynA" spikeTarget="./DoubExpSynA"/>
     
     <network id="network_PN1LS_allORNs" type="networkWithTemperature" temperature="6.3 degC">
 
