@@ -7,3 +7,6 @@
 /neuroConstruct/PN1LS_allORNs_Rinput/generatedNeuroML2/*.png
 /neuroConstruct/PN1LS_allORNs_Rinput/generatedNeuroML2/*.svg
 *.bak
+/nC_projects_lite/PN1LS_allORNs/generatedNEURON
+/nC_projects_lite/*/simulations
+/nC_projects_lite/*/generatedNeuroML2/runsim.sh
